@@ -1,10 +1,9 @@
 #!/bin/bash
-#set this varible on line 3 replace the initials and username
-myDir=Student/J/R/jrowe/ddccode2
+#create extra backup for grading
 
 
 echo -e .
-echo -e  if you forget to connect using your folder alias, this fails 
+echo -e  ready to copy files..?
 echo -e .
 
 
